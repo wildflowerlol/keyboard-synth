@@ -1,5 +1,5 @@
 # Keyboard Synth
-This is a waveform synthesizer in Python which you can use it with your keyboard. It uses
+This is a waveform synthesizer in Python which you can use it with your keyboard. It uses dewa, a library for waveform synthesizer. Dewa and the keyboard synth is a project for Programming 3 at KOSEN-KMITL
 
 # Requirments
 - Python
